@@ -1,4 +1,4 @@
-#Employee Management System - Spring Boot, Spring Security, REST API, POSTMAN
+# Employee Management System - Spring Boot, Spring Security, REST API, POSTMAN
 
 ## <u>_Project Functionality Video_</u>
 
